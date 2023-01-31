@@ -1,0 +1,15 @@
+.nav {
+    display: inline-block;
+    padding: 15px;
+    background-color: aquamarine;
+}
+.sidebar {
+    width: 29%;
+    float: left;
+    background-color: blue;
+}
+.content {
+    width: 70%;
+    float: left;
+    background-color: blueviolet;
+}
